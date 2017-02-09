@@ -1,0 +1,178 @@
++ 43123 Sandro João Fonte Coelho
++ 55816 José Luis Sacadura Valente de Valle-Flor
++ 57422 Tiago André Mestre Teixeira
++ 58987 Tania Sofia Dourado Manuel
++ 59069 Frederico Miguel Dias Martinho dos Reis Franco
++ 63535 Joao Miguel Dinis da Costa
++ 63576 Renato Filipe Jacob Esteves Lourinho
++ 64023 Catia Sofia Santos de Oliveira Leitao
++ 64041 David Ricardo Franca Resende
++ 64054 Paulo Andre Isidoro da Costa
++ 65007 Pedro Miguel Correia da Silva Pires Faleiro
++ 65383 João Bernardo Pedroso de Lima Ferreira da Fonseca
++ 65865 Andre Francisco Zilhao de Almeida Santos
++ 65892 Diogo Rafael Pinto Andre
++ 65907 Ivan Lourenço dos Santos
++ 65921 Marco Flavio dos Santos Tomas
++ 66355 André Filipe Salgado de Ascencao
++ 68117 Andre de Paiva Simoes Pimenta de Castro
++ 68125 Carlos Alberto de Almeida Costinha
++ 68136 Diogo Miguel da Silva Machado
++ 68160 João Pedro Valado Rodrigues
++ 68195 Rui Miguel Pereira Barata
++ 68198 Tiago Filipe Neves Teixeira
++ 68219 Gonçalo Nuno Marques Ramos
++ 68224 Joao Pedro Gomes Delgado
++ 68230 Miguel Ribeirinho da Costa e Silva
++ 68549 Diogo Andre Cardoso Serafim
++ 68611 André Alexandre da Conceição Sena da Palma Neto
++ 68614 Carlos Eduardo Marcelo Vilaça
++ 70451 José Paulo Martins Andrade
++ 70464 André Filipe Rodrigues de Andrade
++ 70486 Patrícia Alexandra Figueiredo Melo
++ 70573 Bárbara Paiva Tavares Santos
++ 70574 Andrian Ursu
++ 70587 Andre Machado Monteiro Ferreira Gonçalves
++ 70591 Luís Miguel Afonso Saramago
++ 70604 Rui Miguel Duarte Oliveira
++ 70632 Bruno David Benedito Serrano
++ 71030 Pedro Alexandre Teixeira Miranda
++ 71035 Filipe Alexandre Rodrigues Sardinha
++ 71053 David Miguel Raposo Fernandes Lameiras
++ 71054 Nuno Ferro Pereira
++ 71065 Maria Isabel Alvarez da Silva
++ 71070 Ricardo Antunes Afonso
++ 73817 Félix Fagundes de Barros
++ 73831 Rui Carlos de Brito Martins Peres
++ 73848 Pedro dos Santos Duarte Dias
++ 73866 Rita João Luna de Carvalho Monteiro Pires
++ 73870 Miguel Maria Caldeira Rebelo Delgado Bento
++ 73875 David Henriques Monterde
++ 73876 Fernando Ivans Rita Lourenço
++ 73899 Valdo Miguel Carvalho Jorge Pereira Lopes
++ 73923 Ricardo Ferreira Simas
++ 73943 Laura de Jesus dos Santos Varela Barroso
++ 74005 Ricardo Manuel Mota de Moura
++ 74252 João Pedro Coelho Amador
++ 74255 André José Antunes Lourenço Vasconcelos Marques
++ 74259 João Gonçalo Alves Borges
++ 74280 Gonçalo Miguel do Vale Leal Pina
++ 76149 João Tomás de Pinho Machado da Fonseca Robalo
++ 76356 Tomás Alegria Garcia de Aguiar
++ 76365 Filipe João Vieira Flores Monteiro
++ 76377 José Paulo de Oliveira Rodrigues Marques Dias
++ 76397 Inês Sofia Raposo Percheiro
++ 76398 Ricardo Campos
++ 76400 Bruno Sony Lopes Borges
++ 76406 Bruno Miguel dos Santos Caldeireiro
++ 76416 João Pedro Santos Carvalho
++ 76421 Miguel Leirós da Costa Paiva
++ 76436 Pedro Manuel Barros Ricardo Silva
++ 76446 Diogo Mendinhas Carlos
++ 76447 Daniel Alexandre Peixoto Tanque
++ 76448 Mariana Rodrigues Seguro Gaspar Fernandes
++ 76468 Henrique Bao Correia da Fonseca
++ 76474 Ricardo Daniel Reis da Vinha
++ 76475 Rafael Koener
++ 76476 João Bernardo Antunes da Costa
++ 76479 Miguel da Cunha Garcia Marques
++ 76496 Francisco Alexandre Borges Aurindo Barros
++ 76500 David Miguel Redwanz Duque
++ 76508 Bruno Miguel Paiva Soalheira
++ 76513 Raquel Marçal Cristóvão
++ 76527 Mariana Ventura Vicente
++ 76528 Bernardo Esteves Gomes da Palma Rato
++ 76534 Diogo Filipe Afonso Fernandes
++ 76543 Filipe Rafael Soares
++ 76544 Daniel Bastos Penteado
++ 76557 Pedro Miguel Avelar Dias
++ 76564 Luís Miguel Gonçalves Valverde
++ 77071 Alexandre Figueiredo Pereira
++ 77076 David Miguel Nunes da Cruz
++ 77087 Diana Cristina de Figueiredo Delgado
++ 77091 Patrícia Andreia Graça da Silva Santos
++ 77207 Fernando Jorge Vicente Marçal Liça
++ 77209 João Manuel Godinho Ribeiro
++ 77211 João de Araújo Correia Neto Lopes
++ 77212 Thomas Louis Monteiro Gibson
++ 77896 Tiago Filipe Bravo Fernandes
++ 77900 Luís Filipe Abreu dos Santos
++ 77905 Paloma Andrade Gonçalves
++ 77907 João Guilherme dos Santos Leite
++ 77916 Guilherme Filipe Pereira Querido Ramos
++ 77917 Daniel José Nazaré Madruga
++ 77919 Luís Miguel Santos Henriques
++ 77924 Fábio Miguel de Jesus Gomes
++ 77925 José Luís Henriques dos Santos Pereira
++ 77928 Frederico Manuel de Oliveira Teixeira
++ 77929 Pedro Miguel André da Silva
++ 77930 Marina Santos Ferreira
++ 77936 Tiago Costa Santos
++ 77939 Daniel Henriques Pereira Leitão
++ 77940 Luís Fernando Ambrósio Nunes
++ 77941 Tiago Alexandre dos Santos Taveira
++ 77944 Luís Manuel Ribeiro Silva
++ 77946 Joana Ramos Chumbo
++ 77950 Bruno Miguel Perdigão Lampreia
++ 77955 João Guilherme Esteves de Andrade
++ 77956 Pedro Francisco Carmelo de Oliveira
++ 77958 Tiago António Baptista Cabrita Arriegas Rosado
++ 77961 Pedro Filipe Ferreira Fernandes
++ 77966 Catarina Alexandra Pereira Cepeda
++ 77968 Pedro Bertrand Cabral
++ 77969 António Manuel Carmo dos Santos Antão Freire
++ 77974 João Miguel Sousa Varandas
++ 77978 Ricardo Filipe Gomes da Costa
++ 77980 Inês Tormenta Pinheiro Duarte Ferreira
++ 77981 Margarida Guerreiro Morais
++ 77984 Luis Filipe Bras Pinto Pereira
++ 77989 Rui Miguel Pereira Pacheco
++ 77991 Miguel Rufino Francisco
++ 77992 João Francisco Rodrigues
++ 77994 Ricardo Miguel Oliveira de Almeida
++ 77997 João Pedro Salgueiro Peralta
++ 77998 Carlos Daniel Oliveira Gonçalves
++ 77999 Diogo Aires Jerónimo
++ 78001 Joao Gomes Vultos Freitas
++ 78004 André Filipe Rosa Saraiva
++ 78010 Bernardo Silva Caetano
++ 78012 Diogo Lourenço Cortez
++ 78015 David Miguel Mendonça da Silva
++ 78016 Gonçalo Medeiros Serapicos Montalvão Marques
++ 78019 César Miguel Costa Gonçalves
++ 78021 Frederico Pascoal Gaião Martins Monteiro
++ 78022 João Carlos Bento Bernardino
++ 78029 Vasco Maria dos Santos Pombo
++ 78030 Constantin Zavgorodnii
++ 78031 Sofia Sobral Carvalho Martins
++ 78034 Tomás Jacob Martins
++ 78037 Alexandre de Souza e Menezes Lopes Peres
++ 78038 Marta Martins Bernardo
++ 78039 João Diogo Vinagre Tomázio
++ 78042 Bruno Miguel Nascimento Carola
++ 78045 André Filipe Borges Monteiro
++ 78046 Gonçalo Martins Neca Moreira Teixeira
++ 78047 Ricardo Costa Dias Rei
++ 78048 Pedro Miguel dos Santos Feitor
++ 78049 João Pedro Veríssimo da Cruz Varandas
++ 78051 Ricardo Godinho Pereira
++ 78052 Miguel Dziergwa de Carvalho
++ 78054 Leonor Ferreira Clemente
++ 78058 João António Mateus Tiago
++ 78078 Diogo Miguel Galhardas Pinto Gonçalves
++ 78080 José Miguel Serafino Dias
++ 78081 Gabriel Filipe Queirós Mesquita Delgado Freire
++ 78082 Tiago Mousinho Martins
++ 78083 Filipe Emanuel Lourenço Ramalho Fernandes
++ 78084 Miguel João Gil Catarino
++ 78086 Rui Filipe Mestre Caneca
++ 78418 Magda Carolina Araújo Resende
++ 79304 Ana Isabel Jesus da Silva
++ 79360 Miguel Antunes Lopes da Cunha
++ 79750 Ricardo Ari Sequeira
++ 79756 Luís Rafael Bastos Duarte
++ 79762 Duarte Fernandes Vieira da Silva
++ 79767 Pedro Miguel da Silva Brás
++ 79769 Mário Jorge Pereira Santos
++ 64070 João Miguel Alves
+q
